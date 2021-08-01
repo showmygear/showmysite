@@ -1,0 +1,2 @@
+# showmysite
+Static landing page
