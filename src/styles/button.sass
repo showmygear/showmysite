@@ -1,0 +1,30 @@
+@import '_colors'
+@import '_fontSizes'
+
+button
+  background: $black
+  color: $white
+  font-size: 18px
+  padding: 0 18px
+  height: 40px
+  border-radius: 100px
+  border: none
+  cursor: pointer
+  &:hover
+    background: $primary-color
+  &:active, &:focus
+    outline: none
+  &:disabled
+    background: $gray
+    color: $black
+  &.btn-primary
+    background: linear-gradient(238.04deg, #0038FF 16.08%, #5CC4FF 96.36%)
+    &:hover
+      background: $white
+      color: $primary-color
+      box-shadow: inset 0 0 0 2px $primary-color
+  &.btn-secondary
+      background: $primary-color-lighter
+      color: $primary-color
+      &:hover
+        background: $primary-color-light
