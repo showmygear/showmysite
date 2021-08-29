@@ -29,7 +29,7 @@ const ShowMySite = () => {
             共同開發中
         </div>
     </main>
-    <footer style={{marginTop: 80}}>
+    <footer style={teamStyles}>
         <a href="https://github.com/showmygear" target="_blank">GitHub</a>
         <a href="https://showmygear.tumblr.com" target="_blank">Dev Blog</a>
     </footer>
