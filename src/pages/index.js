@@ -11,7 +11,7 @@ const ShowMySite = () => {
     <header>
         <h1>曬裝備</h1>
     </header>
-    <title>Show My Gear 曬裝備</title>
+    <title>曬裝備 - 登山裝備檢查表</title>
     <main>
         <Character id="1" width={200}/>
         <p>曬裝備是一個方便分享給其他人的登山裝備檢查表</p>
