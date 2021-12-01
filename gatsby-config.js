@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
-    title: "My Gatsby Site",
+    siteUrl: "https://www.showmygear.com",
+    title: "曬裝備 - 登山裝備檢查表",
   },
   plugins: [
     "gatsby-plugin-sass",
