@@ -13,7 +13,7 @@
     "deploy": "gh-pages -d public",
     "develop": "gatsby develop",
     "start": "gatsby develop",
-    "build": "gatsby build && cp ./src/CNAME",
+    "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean"
   },
