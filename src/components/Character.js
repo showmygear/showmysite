@@ -147,11 +147,11 @@ const Character = ({
       <path id={`strap-outline-${id}`} />
     </svg>
     <div style={{margin: '2em 0'}}>
-      <Button variant="primary" style={{margin: '0 4px'}} onClick={wearClothes}>穿衣服</Button>
-      <Button variant="primary" style={{margin: '0 4px'}} onClick={wearPants}>穿褲子</Button>
-      <Button variant="primary" style={{margin: '0 4px'}} onClick={wearShoes}>穿鞋子</Button>
-      <Button variant="primary" style={{margin: '0 4px'}} onClick={wearBackpack}>揹背包</Button>
-      <Button variant="primary" style={{margin: '0 4px'}} onClick={changeHair}>換髮型</Button>
+      <Button variant="primary" style={{margin: '4px'}} onClick={wearClothes}>穿衣服</Button>
+      <Button variant="primary" style={{margin: '4px'}} onClick={wearPants}>穿褲子</Button>
+      <Button variant="primary" style={{margin: '4px'}} onClick={wearShoes}>穿鞋子</Button>
+      <Button variant="primary" style={{margin: '4px'}} onClick={wearBackpack}>揹背包</Button>
+      <Button variant="primary" style={{margin: '4px'}} onClick={changeHair}>換髮型</Button>
     </div>
     </>
     )
