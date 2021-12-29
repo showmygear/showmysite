@@ -38,6 +38,7 @@ const ShowMySite = () => {
         <a href="https://github.com/showmygear" target="_blank">GitHub</a>
         <a href="https://showmygear.tumblr.com" target="_blank">Dev Blog</a>
     </footer>
+    <script async src="https://cdn.splitbee.io/sb.js"></script>
   </div>
   )
 }
