@@ -20,14 +20,6 @@ module.exports = {
         theme_color: `#fff`,
       }
     },
-    {
-      resolve: `gatsby-plugin-splitbee`,
-      options: {
-        includeInDevelopment: false,
-        delayTimeout: 0,
-        disableCookie: false
-      },
-    },
     "gatsby-plugin-sass",
     "gatsby-plugin-image",
     "gatsby-plugin-sharp",

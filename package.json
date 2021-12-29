@@ -23,7 +23,6 @@
     "gatsby-plugin-manifest": "^4.3.0",
     "gatsby-plugin-sass": "5.0.0",
     "gatsby-plugin-sharp": "4.2.0",
-    "gatsby-plugin-splitbee": "^0.2.0",
     "gatsby-source-filesystem": "4.2.0",
     "gatsby-transformer-sharp": "4.2.0",
     "gh-pages": "^3.2.3",
